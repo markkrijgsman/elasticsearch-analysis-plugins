@@ -1,0 +1,1 @@
+This image is published at https://cloud.docker.com/repository/docker/markkrijgsman/elasticsearch-analysis-plugins
